@@ -1,5 +1,9 @@
 # Google Engineering Practices Documentation
 
+> 本ページは Google Engineering Practices Documentation について意訳し個人的なメモを追加したものです。
+> また本ページを作成するにあたって、 Google Engineering Practices Documentation についての以下の古いバージョンの翻訳を参照しています。
+> ref: https://github.com/shuuji3/eng-practices/
+
 Google has many generalized engineering practices that cover all languages and
 all projects. These documents represent our collective experience of various
 best practices that we have developed over time. It is possible that open source
